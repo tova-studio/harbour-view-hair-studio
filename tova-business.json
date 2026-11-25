@@ -1,0 +1,33 @@
+{
+  "schema": 1,
+  "source": "tova-explore",
+  "generatedAt": "2026-11-25T00:46:32.764Z",
+  "slug": "harbour-view-hair-studio",
+  "name": "Harbour View Hair Studio",
+  "city": "Tauranga",
+  "industry": {
+    "niche": "hair salon"
+  },
+  "contact": {
+    "phone": "07 555 0199"
+  },
+  "social": {},
+  "about": {},
+  "before": {
+    "score": 85,
+    "assessedAt": "2026-11-10T08:45:18.013Z",
+    "issues": [
+      {
+        "id": "no-website",
+        "title": "No website found",
+        "evidence": "No website is listed for this business in the sources searched (verify manually before outreach)."
+      }
+    ]
+  },
+  "ours": {
+    "pagesUrl": "https://tova-studio.github.io/harbour-view-hair-studio/",
+    "repoUrl": "https://github.com/tova-studio/harbour-view-hair-studio",
+    "screenshot": "screenshots/after-desktop.jpg",
+    "publishedAt": "2026-11-25T00:46:32.764Z"
+  }
+}
